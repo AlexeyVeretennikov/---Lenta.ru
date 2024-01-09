@@ -1,1 +1,1 @@
-# ---Lenta.ru
+#  check list Lenta.ru
